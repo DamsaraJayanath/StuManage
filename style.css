@@ -1,0 +1,33 @@
+.main{
+    width: 100%;
+    padding:  5%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card{
+ 
+    
+    padding: 20px;
+    background-color: lightgreen;
+    
+}
+
+.infor {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.subjects{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.subjects p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
